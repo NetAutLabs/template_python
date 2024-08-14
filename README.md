@@ -3,9 +3,10 @@ tags:
   - topic
   - beginner
   - codespaces
+  - python
 ---
 
-# Collect Configs
+# Lab NAme
 
 
 |             |                                                                                                    |
