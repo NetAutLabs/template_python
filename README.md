@@ -6,7 +6,7 @@ tags:
   - python
 ---
 
-# Lab NAme
+# Lab Name
 
 
 |             |                                                                                                    |
